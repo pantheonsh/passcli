@@ -1,0 +1,6 @@
+{
+    "name": "passcli",
+    "dependencies": {
+        "better-sqlite3": "^5.0.1"
+    }
+}
