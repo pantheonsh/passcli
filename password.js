@@ -16,6 +16,10 @@ class PasswordManager {
     getPassword(record_id) {
 
     }
+
+    newRecord({ name, password }) {
+        
+    }
 }
 
 module.exports = PasswordManager;
