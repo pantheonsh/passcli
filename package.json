@@ -1,6 +1,7 @@
 {
     "name": "passcli",
     "dependencies": {
-        "better-sqlite3": "^5.0.1"
+        "better-sqlite3": "^5.0.1",
+        "sanitize-filename": "^1.6.1"
     }
 }
